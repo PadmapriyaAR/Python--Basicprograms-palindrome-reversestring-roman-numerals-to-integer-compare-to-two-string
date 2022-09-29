@@ -1,9 +1,8 @@
-# Random_Number_generator_python_tkinter
+# Python program to Check given string is palindrome
 
 
-Random number generator using tkinter module.
+Example of palindrome : madam
 
 
-Output:
-![image](https://user-images.githubusercontent.com/109935430/189564827-2494beda-d28f-4605-88cf-a99f1224144e.png)
+
 
