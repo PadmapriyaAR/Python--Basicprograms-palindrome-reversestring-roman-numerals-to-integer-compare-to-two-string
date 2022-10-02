@@ -1,8 +1,13 @@
 # Basic Python programs
 
-Palindrome
+Palindrome program without using inbulit function-palindrome.py
 
-Example of palindrome : madam
+Python program for binary search of an sorted array-binarysearch.py
+
+Python program to reverse a string-reversestring.py
+
+Python program to change Roman numerals to integer- roman.py
+
 
 
 
