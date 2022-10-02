@@ -1,3 +1,4 @@
+
 def palindrome(str):
     length = len(str)
     rev_str = ""
