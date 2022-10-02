@@ -1,7 +1,11 @@
-# Python program to Check given string is palindrome
+# Basic Python programs
 
+Palindrome
 
 Example of palindrome : madam
+
+
+
 
 
 
